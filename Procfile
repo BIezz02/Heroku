@@ -1,1 +1,1 @@
-web: gunicorn descriptions.wsgi --log-file -
+web: gunicorn pglheroku.wsgi --log-file -
