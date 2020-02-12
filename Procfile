@@ -1,1 +1,0 @@
-web: gunicorn pglheroku.wsgi --log-file -
